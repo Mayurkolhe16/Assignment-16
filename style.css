@@ -3,3 +3,36 @@ body {
     margin: 0;
     padding: 0;
     background-color: yellow;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    color: rgb(19, 15, 15);
+}
+
+header {
+    background-color: #d8d4d0;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+p{
+    display: flex;
+}
+nav{
+    position:sticky;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    position:sticky;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    position:sticky;
+}
