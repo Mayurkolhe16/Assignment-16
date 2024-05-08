@@ -51,6 +51,17 @@ nav ul li {
     margin-left: 15px;
     border-radius: 10px;
   }
+  .btn {
+    height: 50px;
+    position: sticky;
+    top: 30px;
+    border-radius: 10px;;
+    width: 90px;
+    background-color: rgb(231, 218, 214);
+    margin-top: 70px;
+    border-radius: 10px;
+    margin-left: 40px;
+  }
 
 
   footer {
